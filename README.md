@@ -23,4 +23,12 @@ To run Crypto Tracker locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-tracker.git
+   git clone https://github.com/lilbex/crytocurrency-tracker.git
+2. ```bash
+      cd crytocurrency-tracker
+3. ```bash
+   yarn 
+4. ```bash 
+   yarn start
+
+5. visit the url in your browser
